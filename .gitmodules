@@ -4,3 +4,6 @@
 [submodule "Upload"]
 	path = Upload
 	url = git@github-objectpack:objectpack/Upload.git
+[submodule "Base"]
+	path = Base
+	url = git@github-objectpack:objectpack/Base.git

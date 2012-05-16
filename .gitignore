@@ -1,0 +1,15 @@
+
+# Win
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# Netbeans
+nbproject/*
+
+# Eclipse
+/.cache
+.project
+/.settings
+.buildpath
